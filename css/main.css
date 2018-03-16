@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+
+<style type ="text/css">
+.App {	
+	background-color: aquamarine;
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	color: blue;
+	position: relative;
+	text-decoration: none;
+	text-align: justify;
+}
+
+h1 {
+	color: brown;
+}
+
+.header {
+	width: 100%;
+	height: 100px;
+	background-color: antiquewhite;
+	border-bottom: 2px black solid;
+	opacity: 0.9;
+	display: flex;
+}
+
+.header > div {
+  
+  width: 400px;
+  
+  
+}
+
+.headerTop {
+	position: relative;
+	height: 10px;
+	padding: 4px;
+}
+
+.logIn {
+	border-left: 1px black solid;
+	position: relative;
+	width: 250px;
+	
+}
+
+.headerText {
+	position: relative;
+	font-size: 30px;
+	top: -15px;
+}
+
+.clothes {
+	position: relative;
+	top: 250px;
+	margin: 50px;
+}
+</style>
