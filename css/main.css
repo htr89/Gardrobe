@@ -75,29 +75,33 @@ form {
   	height: 25%;
 }
 
+.clothButton.Right	 {
+	 border-left-color: 1px solid black;
+}
+
 .clothButton	 {
 	background-color: rgba(255,255,255,0.5);
     color: black;    
-    border-top: 1px solid black;
+    border-top: 4px solid black;
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    padding: 15px 60px;
-
+    padding: 15px 73px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
 }
 
+
+
 .clothButton:hover	 {
 	background-color: rgba(255,255,255,0.9);
     color: black;    
-    border-top: 1px solid blue;
+    border-top: 4px solid blue;
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
-    padding: 15px 60px;
     text-align: center;
     text-decoration: none;
     display: inline-block;

@@ -1,0 +1,22 @@
+{
+  "name": "gardrobe",
+  "version": "1.0.0",
+  "description": "my gardrobe",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htr89/Gardrobe.git"
+  },
+  "author": "Hermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htr89/Gardrobe/issues"
+  },
+  "homepage": "https://github.com/htr89/Gardrobe#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
