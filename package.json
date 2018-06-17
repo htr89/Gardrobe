@@ -16,7 +16,8 @@
     "url": "https://github.com/htr89/Gardrobe/issues"
   },
   "homepage": "https://github.com/htr89/Gardrobe#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "electron": "^2.0.2"
   }
 }

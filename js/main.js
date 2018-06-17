@@ -9,5 +9,10 @@ let mainWindow;
 
 
 app.on('ready', function(){
-	main
+	mainWindow = new BrowserWindow({});
+    mainWindow.loadURl(url.format({
+        pathname: path.join(__dirname, 'gardrobe.html'),
+        protocol: 'file:',
+        slashes: true
+    })); 
 });
