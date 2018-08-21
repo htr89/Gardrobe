@@ -2,7 +2,7 @@
   "name": "gardrobe",
   "version": "1.0.0",
   "description": "my gardrobe",
-  "main": "main.js",
+  "main": "js/main.js",
   "scripts": {
     "start": "electron ."
   },
